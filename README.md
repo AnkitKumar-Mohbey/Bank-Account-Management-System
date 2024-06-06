@@ -1,5 +1,7 @@
-# Bank Account Management System
-
+# Bank Account Management System 
+<p align="center">
+  <img width="94" height="94" src="https://github.com/AnkitKumar-Mohbey/github-header-image.png"/>
+</p>
 
 
 ## Overview
